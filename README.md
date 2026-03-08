@@ -16,7 +16,7 @@ This project satisfies the following requirements:
 |------------------------------------------|--------|
 | OpenAI GPT API as the LLM               | ✅      |
 | LangChain agent with tool-calling        | ✅      |
-| At least 2 external APIs as tools        | ✅ (Weather + News, plus Currency as bonus) |
+| At least 2 external APIs as tools        | ✅      |
 | Agent chooses tools automatically        | ✅      |
 | Agent combines results from multiple tools | ✅    |
 | Clean modular architecture               | ✅      |
@@ -210,6 +210,3 @@ No unhandled exceptions will crash the program.
 
 ---
 
-## License
-
-MIT
